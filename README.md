@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jude Uloko</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
-<img src="https://images.app.goo.gl/XDyP4B55x2K2WJLh6" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jude-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jude-coder" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jude-coder" alt="jude-coder" /></a> </p>
