@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jude Uloko</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate website frontend developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jude-coder&label=Profile%20views&color=0e75b6&style=flat" alt="jude-coder" /> </p>
 
@@ -7,7 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **Html**
+- 🔭 I’m currently working on **Scalable e-library**
+
+- 🌱 I’m currently learning **Python and JavaScript**
+
+- 💬 Ask me about **Html and css**
 
 - 📫 How to reach me **jude1238900@gmail.com**
 
