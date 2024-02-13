@@ -28,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jude-coder&show_icons=true&locale=en" alt="jude-coder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jude-coder&" alt="jude-coder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jude-coder&" alt="jude-coder" /> </p>
