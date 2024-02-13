@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Scalable e-library**
+- 🔭 I’m currently working on a **Scalable e-library**
 
 - 🌱 I’m currently learning **Python and JavaScript**
 
 - 💬 Ask me about **Html and css**
 
-- 📫 How to reach me **jude1238900@gmail.com**
+- 📫 you can reach out to me with this emai **jude1238900@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
